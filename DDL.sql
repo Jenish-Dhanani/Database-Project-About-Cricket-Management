@@ -1,5 +1,5 @@
-create schema cwo;
-set search_path to cwo;
+create schema cms;
+set search_path to cms;
 
 -- Team Table 
 create table Team (
